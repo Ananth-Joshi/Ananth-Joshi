@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Ananth-Joshi/Ananth-Joshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Ananth A Joshi**, a passionate full stack developer eager to build new things.
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-End
+- **Languages**: HTML, CSS, JavaScript, TypeScript.
+- **Libraries & Frameworks**: React, NextJS, TailwindCSS.
+
+
+### Back-End
+- **Languages**: Javascript.
+- **Frameworks & Runtime Environments**: Node.js, Express.
+- **Databases**: MySQL,MongoDB
+
+### Tools
+- **Version Control**: Git, GitHub.
+
+### Other Languages and Technologies
+- Python,C
+
+## 🌐 Connect with Me
+- **Email**: ananthj82@gmail.com.
+- **LinkedIn**: [https://www.linkedin.com/in/ananth-a-joshi](https://www.linkedin.com/in/ananth-a-joshi)
