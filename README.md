@@ -4,21 +4,20 @@ I'm **Ananth A Joshi**, a passionate full stack developer eager to build new thi
 
 ## 🛠️ My Tech Stack
 
-### Front-End
+### 🎨 Front-End
 - **Languages**: HTML, CSS, JavaScript, TypeScript.
 - **Libraries & Frameworks**: React, NextJS, TailwindCSS.
 
-
-### Back-End
-- **Languages**: Javascript.
+### 🧑‍💻 Back-End
+- **Languages**: JavaScript.
 - **Frameworks & Runtime Environments**: Node.js, Express.
-- **Databases**: MySQL,MongoDB
+- **Databases**: MySQL, MongoDB
 
-### Tools
+### 🛠️ Tools
 - **Version Control**: Git, GitHub.
 
-### Other Languages and Technologies
-- Python,C
+### 🌍 Other Languages and Technologies
+- Python, C
 
 ## 🌐 Connect with Me
 - **Email**: ananthj82@gmail.com.
