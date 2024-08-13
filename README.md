@@ -22,3 +22,4 @@ I'm **Ananth A Joshi**, a passionate full stack developer eager to build new thi
 ## 🌐 Connect with Me
 - **Email**: ananthj82@gmail.com.
 - **LinkedIn**: [https://www.linkedin.com/in/ananth-a-joshi](https://www.linkedin.com/in/ananth-a-joshi)
+- **X**: [https://x.com/AnanthJosh7261](https://x.com/AnanthJosh7261)
