@@ -9,8 +9,8 @@ I'm **Ananth A Joshi**, a passionate full stack developer eager to build new thi
 - **Libraries & Frameworks**: React, NextJS, TailwindCSS.
 
 ### 🧑‍💻 Back-End
-- **Languages**: JavaScript.
-- **Frameworks & Runtime Environments**: Node.js, Express.
+- **Languages**: JavaScript, PHP.
+- **Frameworks & Runtime Environments**: Node.js, Express, Laravel.
 - **Databases**: MySQL, MongoDB
 
 ### 🛠️ Tools
